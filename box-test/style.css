@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    font-size: 40px;
+}
+
+.one {
+    width: 700px;
+    height: 300px;
+    box-sizing: content-box;
+
+    background-color: rgb(160, 50, 77);
+    padding: 20px;
+    border: solid 10px;
+    border-color: antiquewhite;
+    margin: 20px;
+}
+
+.two {
+    width: 700px;
+    height: 300px;
+    box-sizing: border-box;
+
+    background-color: rgb(88, 55, 233);
+    padding: 20px;
+    border: solid 10px;
+    border-color: antiquewhite;
+    margin: 20px;
+}
+
+.box-1 {
+    width: 700;
+    height: 300;
+}
+
+.box-2 {
+    width: 700;
+    height: 300;
+}
